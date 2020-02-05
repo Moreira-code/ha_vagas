@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9981fb4727d19abcb4855f0407e97edb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\390a9cc34416333bc00ac8ab95bc302d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5509a9a796908e9c041540acbf9ed6ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ae70b68ef290d5d6dbcb82ac80040050\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6826dcb258867604a9b5a0d5992242ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bd460738cdbfec912100e8a9294b1b2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aea918e22759601ba33e7f2609e5fcf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\725d95df3e4ba61a05d7ee3a2e4f308a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\457cf95f3bbef068a55645bf81fef30f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3e19cdeb09a210d36cb965d2bd565566\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f91c7da866e9133d4081ca6fba32cbc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\646ab88f2d0359f3007fae71e12ffc53\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc92a356fb4c7dbcd67fbf9961d42757\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\acfb82d69409e6a5fe70f1083bbb5b41\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\51a630fb7de4f29ba33e40393d5b9814\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fed231d9b986f5c95ec2c7cc6e07410b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\31c1e36b0ec686717d97f7630c078279\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43f29a402329e9a8f0e00a3c7d1527ca\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\186ac6d4c0dadfdcd7f39cd5e9c2238b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ef3d20bc786792baf812cec0c46293a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\40aafa81756e17c913bed0ee524a19e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\53e7d869ccc49398569282f74d2901d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6a2e8a172f095171cbb97d6410fe27f3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\646ab88f2d0359f3007fae71e12ffc53\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\646ab88f2d0359f3007fae71e12ffc53\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43f29a402329e9a8f0e00a3c7d1527ca\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43f29a402329e9a8f0e00a3c7d1527ca\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\646ab88f2d0359f3007fae71e12ffc53\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.moreira.ha_vagas.MainActivity
+ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9981fb4727d19abcb4855f0407e97edb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9981fb4727d19abcb4855f0407e97edb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\390a9cc34416333bc00ac8ab95bc302d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\390a9cc34416333bc00ac8ab95bc302d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5509a9a796908e9c041540acbf9ed6ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5509a9a796908e9c041540acbf9ed6ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ae70b68ef290d5d6dbcb82ac80040050\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ae70b68ef290d5d6dbcb82ac80040050\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6826dcb258867604a9b5a0d5992242ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6826dcb258867604a9b5a0d5992242ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bd460738cdbfec912100e8a9294b1b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bd460738cdbfec912100e8a9294b1b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aea918e22759601ba33e7f2609e5fcf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aea918e22759601ba33e7f2609e5fcf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\725d95df3e4ba61a05d7ee3a2e4f308a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\725d95df3e4ba61a05d7ee3a2e4f308a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\457cf95f3bbef068a55645bf81fef30f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\457cf95f3bbef068a55645bf81fef30f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3e19cdeb09a210d36cb965d2bd565566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3e19cdeb09a210d36cb965d2bd565566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f91c7da866e9133d4081ca6fba32cbc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f91c7da866e9133d4081ca6fba32cbc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\646ab88f2d0359f3007fae71e12ffc53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\646ab88f2d0359f3007fae71e12ffc53\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc92a356fb4c7dbcd67fbf9961d42757\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc92a356fb4c7dbcd67fbf9961d42757\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\acfb82d69409e6a5fe70f1083bbb5b41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\acfb82d69409e6a5fe70f1083bbb5b41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\51a630fb7de4f29ba33e40393d5b9814\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\51a630fb7de4f29ba33e40393d5b9814\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fed231d9b986f5c95ec2c7cc6e07410b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fed231d9b986f5c95ec2c7cc6e07410b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\31c1e36b0ec686717d97f7630c078279\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\31c1e36b0ec686717d97f7630c078279\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43f29a402329e9a8f0e00a3c7d1527ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43f29a402329e9a8f0e00a3c7d1527ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\186ac6d4c0dadfdcd7f39cd5e9c2238b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\186ac6d4c0dadfdcd7f39cd5e9c2238b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ef3d20bc786792baf812cec0c46293a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ef3d20bc786792baf812cec0c46293a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\40aafa81756e17c913bed0ee524a19e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\40aafa81756e17c913bed0ee524a19e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\53e7d869ccc49398569282f74d2901d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\53e7d869ccc49398569282f74d2901d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6a2e8a172f095171cbb97d6410fe27f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\lucca\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6a2e8a172f095171cbb97d6410fe27f3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\lucca\AndroidStudioProjects\ha_vagas\android\app\src\debug\AndroidManifest.xml:6:22-64
